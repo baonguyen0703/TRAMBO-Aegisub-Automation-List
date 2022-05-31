@@ -8,4 +8,5 @@
 5. In N Out - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-InNOut
 6. Save and Import Lines - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-SaveAndImportLines
 7. Add Image Sequence - https://github.com/baonguyen0703/-TRAMBO-Aegisub-Automation-AddImageSequence
-8. Aegisub2Staxrip - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-Aegisub2Staxrip
+8. Aegisub2Staxrip - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-Aegisub2Staxrip 
+9. Curved Text - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-CurvedText
