@@ -7,6 +7,7 @@
 4. Vector Color - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-VectorColor
 5. In N Out - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-InNOut
 6. Save and Import Lines - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-SaveAndImportLines
-7. Add Image Sequence - https://github.com/baonguyen0703/-TRAMBO-Aegisub-Automation-AddImageSequence
-8. Aegisub2Staxrip - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-Aegisub2Staxrip 
-9. Curved Text - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-CurvedText
+7. In N Out for Clip - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-InNOut-for-Clip
+8. Add Image Sequence - https://github.com/baonguyen0703/-TRAMBO-Aegisub-Automation-AddImageSequence
+9. Aegisub2Staxrip - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-Aegisub2Staxrip 
+10. Curved Text - https://github.com/baonguyen0703/TRAMBO-Aegisub-Automation-CurvedText
